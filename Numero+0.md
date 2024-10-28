@@ -1,4 +1,4 @@
-# Numéro 0 - 2025/10/25
+# Numéro 0 (2025/10/25)
 
 Au menu  de cette édition:  deux grosses livraisons de l’IGN, l’opérateur national nous offrant de quoi phosphorer longuement avec le mémento annuel sur la forêt et son troisième atlas de l’anthropocène . Des sujets un peu plus exotiques : les exploits de Kilian Jornet en story map, géologie et terre du milieux, un énorme travail de compilation de cartes historiques, ….. Bien entendu vous n’échapperez pas à quelques sujets centrés sur le duo météorologie/climat !
 
