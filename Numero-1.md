@@ -6,20 +6,18 @@ https://theconversation.com/la-nappe-de-beauce-un-immense-reservoir-deau-confron
 
 - [politique/USA] Un spécialiste des SIG et des cartes à la vice-présidence des USA ? Tim Waltz, le colistier de la candidate démocrate à l’élection présidentielle Camala Harris (et donc potentiel vice-président des Etats-Unis) est un professeur de géographie qui a largement promu l’usage de la géographie numérique lorsqu’il était à la tête de l’état du Minesota.
 https://gogeomatics.ca/tim-walz-the-gis-nerd-at-the-heart-of-the-2024-us-election/
-
 https://www.fastcompany.com/91168602/tim-walz-gis-map-nerd
 
 
 - [climat / énergie/ frontières]Et si les climats et les énergies renouvelables redessinaient les frontières des pays ? Cette carte a été proposée par OMA, l’agence du célèbre architecte Rem Koolhaas, en 2010 pour illustrer un scénario prospectif d’indépendance énergétique en Europe pour l’horizon 2050.
 https://www.architectural-review.com/essays/rotterdam-the-netherlands-rem-koolhaas-oma-tackles-energy-interdependency-in-europe
-
 OMA a proposé de redessiner les frontières des pays sur la base des énergies renouvelables et des ressources énergétiques disponibles sur les différents territoires européens. Cependant, il faut noter qu'elle a mal vieillie...
 
 - [Ailleurs] Portail Australien des géosciences. Explorer l’ile continent.
 https://portal.ga.gov.au/
 
-- [foncier / climat] l'impact du changement climatique sur la valeur des terres d'ici 2100. Une carte des différentes région d’Europe produite par l’Agence européenne de l’Environnement
-plusieurs pays subiront de lourdes pertes en raison des changements de température et de précipitations à venir.
+- [foncier / climat] l'impact du changement climatique sur la valeur des terres d'ici 2100. Une carte des différentes région d’Europe produite par l’Agence européenne de l’Environnement.
+Plusieurs pays subiront de lourdes pertes en raison des changements de température et de précipitations à venir.
 https://www.eea.europa.eu/data-and-maps/figures/predicted-climate-change-impact-on
 
 - [environnement/air] Après les "climate stripes" voici les "air quality stripes". 
@@ -45,20 +43,15 @@ https://maps.arcanum.com/en/map/europe-18century-firstsurvey/?layers=here-aerial
 - [climat/forêt] Un site extrêmement bien construit permettant de visualiser l'évolution de la biogéographie de 67 espèces forestières avec le changement climatique. Des entrées par région ou par espèces.Les prévisions du site permettent de voir quelles espèces composeront encore nos forêts, et dans quelles régions, d'ici 2035, 2065 et 2065 en comparaison à 2005. Et cela, en fonction de deux scénarios de réchauffement (RCP 4.5), un modéré, et un plus pessimiste (RCP 8.5).
 https://developmentseed.org/our-forests-tomorrow/#species=%22Fagus_sylvatica%22&timeStep=%222095%22&introCompleted=true
 
-- [architecture/paysage/…] Explorez les cartes narratives d’une architecte / urbaniste, valorisation et interprétation d’un territoire, participation, pédagogie.
-https://www.lescartesnarratives.com/galerie
+- [architecture/paysage/…] Explorez les cartes narratives d’une architecte / urbaniste, valorisation et interprétation d’un territoire, participation, pédagogie. https://www.lescartesnarratives.com/galerie
 
-- [Géographie] Connaissez-vous le point Nemo ? Cet objet géographique particulier nous fait voyager au milieu de l’océan pacifique et nous évoque bien évidemment le personnage des romans de Jules Vernes
-https://fr.wikipedia.org/wiki/Point_Nemo
+- [Géographie] Connaissez-vous le point Nemo ? Cet objet géographique particulier nous fait voyager au milieu de l’océan pacifique et nous évoque bien évidemment le personnage des romans de Jules Vernes. https://fr.wikipedia.org/wiki/Point_Nemo
 
-- [cartographie thématique]L'atelier de cartographie thématique de l’IGN a lancé en 2024 la première édition de son concours Carto pour inviter professionnels, étudiants et amateurs à se saisir des données de la BD TOPO® et à imaginer un récit cartographique, infographique ou artistique autour des Continuités et disparités territoriales. Les lauréats et leurs réalisations sont à retrouver ici.
-https://www.ign.fr/concours-carto-2024-et-les-vainqueurs-sont
+- [cartographie thématique]L'atelier de cartographie thématique de l’IGN a lancé en 2024 la première édition de son concours Carto pour inviter professionnels, étudiants et amateurs à se saisir des données de la BD TOPO® et à imaginer un récit cartographique, infographique ou artistique autour des Continuités et disparités territoriales. Les lauréats et leurs réalisations sont à retrouver ici. https://www.ign.fr/concours-carto-2024-et-les-vainqueurs-sont
 
 
 - [Données satellitaires] La NASA met à disposition cet outil ludique pour explorer le monde et découvrir les capacités insoupçonnées de la télédétection et des données satellitaires. 
-Il vous suffit de rentrer votre nom (ou le mot que vous souhaitez) et des paysages inconnus apparaissent, cela permet de prolonger les vacances 
-
-https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/
+Il vous suffit de rentrer votre nom (ou le mot que vous souhaitez) et des paysages inconnus apparaissent, cela permet de prolonger les vacances https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/
 
 - [lecture] Un peu de papier pour finir avec un ouvrage qui vous permettra de découvrir la discipline de « Geospatiale Intelligence » ou Geoint.
 En cours de lecture, l’ouvrage a été commandé par le service de documentation de la CeA et vous sera donc accessible lorsque je l’y aurai ramené.
