@@ -1,17 +1,17 @@
-# Numéro 0 
+# Numéro 0 - 2025/10/25
 
 Au menu  de cette édition:  deux grosses livraisons de l’IGN, l’opérateur national nous offrant de quoi phosphorer longuement avec le mémento annuel sur la forêt et son troisième atlas de l’anthropocène . Des sujets un peu plus exotiques : les exploits de Kilian Jornet en story map, géologie et terre du milieux, un énorme travail de compilation de cartes historiques, ….. Bien entendu vous n’échapperez pas à quelques sujets centrés sur le duo météorologie/climat !
 
 Pour commencer, un éditorial de la géographe Karine Hurel, qui propose de réinventer notre façon de cartographier le monde, afin de mieux le comprendre et pour protéger les écosystèmes dont nous dépendons.
 https://www.liberation.fr/forums/notre-planete-suffoque-et-nos-cartes-restent-muettes-20240923_ICEMAK7POVCNXFBVM27UQKH5SU/
 
-# [IGN/atlas] Atlas de l’anthropocène n°3 . Avec des cas concrets de mise en œuvre  et d’usage de l’IA appliqué à la cartographie, qui montrent à la fois le savoir-faire et de vrais cas pratiques. En tout cas, un bel ouvrage accessible en ligne !
+#### [IGN/atlas] Atlas de l’anthropocène n°3 . Avec des cas concrets de mise en œuvre  et d’usage de l’IA appliqué à la cartographie, qui montrent à la fois le savoir-faire et de vrais cas pratiques. En tout cas, un bel ouvrage accessible en ligne !
 https://www.ign.fr/atlas-ign-des-cartes-de-lanthropocene-2024-intelligence-artificielle
 
-# [IGN/ Forêt] L’édition 2024 du mémento de l’inventaire forestier national nous plonge dans une forêt de cartes et de données sur l’état de la forêt française
+#### [IGN/ Forêt] L’édition 2024 du mémento de l’inventaire forestier national nous plonge dans une forêt de cartes et de données sur l’état de la forêt française
 https://www.ign.fr/publications-de-l-ign/institut/kiosque/publications/docs_thematiques/memento-2024.pdf
 
-# [sport] L'exploit de Kilian Jornet pour gravir les 82 sommets de plus de 4000 mètres des Alpes, en seulement 19 jours, expliqué de manière graphique et visuellement attrayante
+#### [sport] L'exploit de Kilian Jornet pour gravir les 82 sommets de plus de 4000 mètres des Alpes, en seulement 19 jours, expliqué de manière graphique et visuellement attrayante
 https://www.diariosur.es/deportes/mas-deportes/irrepetible-hazana-kilian-jornet-alpes-20240910003224-ntrc.html
 
 # [littérature / géologie] Incohérences géologiques dans l’univers de Tolkien : entre fiction épique et réalités scientifiques. Pour les fans de Tolkien et/ou de géologie.
