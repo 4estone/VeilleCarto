@@ -37,7 +37,6 @@ Il était jusqu'à récemment difficile de se rendre compte des disparités entr
 https://cuivre.infos-reseaux.com/#4.9/46.13/2.73
 
 - [histoire/Allemagne] Des chercheurs allemands sont parvenus à synchroniser les bases de données modernes du sud de l'Allemagne à une carte achevée en 1797. Le résultat est visible sur le portail Arcanum Maps. A noter qu’une portion du territoire alsacien est couvert (région de Haguenau)
-
 https://maps.arcanum.com/en/map/europe-18century-firstsurvey/?layers=here-aerial%2C163%2C165&bbox=846361.0299852205%2C6201805.283186818%2C973475.8080234687%2C6253935.336477308
 
 - [climat/forêt] Un site extrêmement bien construit permettant de visualiser l'évolution de la biogéographie de 67 espèces forestières avec le changement climatique. Des entrées par région ou par espèces.Les prévisions du site permettent de voir quelles espèces composeront encore nos forêts, et dans quelles régions, d'ici 2035, 2065 et 2065 en comparaison à 2005. Et cela, en fonction de deux scénarios de réchauffement (RCP 4.5), un modéré, et un plus pessimiste (RCP 8.5).
