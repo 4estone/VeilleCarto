@@ -9,7 +9,6 @@ Cela peut être bien utile par ces temps de météorologie, comment dire , un pe
 https://pulse.climate.copernicus.eu/
 
 - [climat / météorologie] Copernicus vient de publier sa tendance à long terme pour l'été prochain dans le monde. Une carte résume le niveau des températures attendu en juillet, août, septembre, et le moins que l'on puisse dire, c'est qu'elle est rouge !
-
 https://charts.ecmwf.int/products/seasonal_system5_standard_2mtm?area=GLOB&base_time=202403010000&stats=tsum&valid_time=202407020000
 
 
@@ -32,17 +31,15 @@ https://www.intercommunalites.fr/actualite/gestion-de-leau-une-carte-des-points-
 Très intéressant à consulter notamment après les épisodes de précipitation en nord Alsace
 https://eswd.eu/cgi-bin/eswd.cgi?&lang=fr_2
 
-
 - [forêt]  Global Forest Watch permet de visualiser l'évolution des forêts. 
 On peut jouer avec les données, éditer des graphes, des cartes, en maniant des info d'une grande richesse.
-
 https://www.globalforestwatch.org/map/?lang=en
 
 - [environnement/data journalisme] Une carte réalisée pour Splann ! Lanceur d'enquêtes, qui publie les deux premiers volets d'un dossier sur le coût humain des pollutions industrielles dans l'agglomération de St-Nazaire.
 https://splann.org/enquete/pollution-saint-nazaire/
 
 - [Google et vous] Explorer son historique de positions Google avec un plugin QGIS
-Explorer ses données personnelles de localisation Google (GPS, GSM et Wifi) dans QGIS grâce à une nouvelle extension. Désolé c’est pour les utilisateurs de QGIS. Mais toute la partie de récupération des données au format json concerne tout le monde. Et pour les collègues de la DSI à mon avis ça ne doit pas être trop compliqué à traiter 
+Explorer ses données personnelles de localisation Google (GPS, GSM et Wifi) dans QGIS grâce à une nouvelle extension. Désolé c’est pour les utilisateurs de QGIS. Mais toute la partie de récupération des données au format json concerne tout le monde. Et pour les collègues de la DSI à mon avis ça ne doit pas être trop compliqué à traiter.
 https://github.com/mastersigat/ExploGooglePosition
 
 - [histoire] L'histoire de l'Île-de-France en cinq siècles de cartographie
@@ -53,7 +50,7 @@ https://www.institutparisregion.fr/cartes-anciennes/
 - [art] L'artiste Clément Aubry dessine des scènes en utilisant le langage visuel des cartes topographiques ; rivières, marais, récifs, routes, littoraux deviennent nez, lèvres, joues, main
 https://www.utopographie.com/archives/cartes-du-tendre/
 
-- [exploration aux longs cours]Pour ceux qui voudraient aller un peu plus loin que l'article du monde consacré à la géographe Brésilienne (pour rappel tous les agents de la CeA ont un accès professionnel aux articles du monde) contrainte de s’exiler en europe suite à ses travaux sur « une géographie de l’utilisation des agrotoxines au Brésil et ses relations avec l’Union européenne »
+- [exploration aux longs cours] Pour ceux qui voudraient aller un peu plus loin que l'article du monde consacré à la géographe Brésilienne (pour rappel tous les agents de la CeA ont un accès professionnel aux articles du monde) contrainte de s’exiler en europe suite à ses travaux sur « une géographie de l’utilisation des agrotoxines au Brésil et ses relations avec l’Union européenne »
 https://www.lemonde.fr/sciences/article/2024/05/18/larissa-mies-bombardi-itineraire-d-une-scientifique-traquee_6234036_1650684.html
 
 Son travail comporte un volumineux atlas de 150 cartes.
