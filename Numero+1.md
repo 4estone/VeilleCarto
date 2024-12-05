@@ -23,7 +23,7 @@ https://www.visionscarto.net/cartographie-sensible-urbanisme-participatif
 https://www.youtube.com/watch?v=zobSOVvxKsM
 
 
-- [Eau/ environnement/Alsace] L’Observatoire de la nappe d’Alsace a repéré un polluant éternel dans 97,5% de ses 200 points de mesure. Ce composé est issu, notamment, d’un herbicide classé comme perturbateur endocrinien. Issu des premiers résultats du projet ERMES-ii Rhin/Rhein pour le territoire alsacien, grande étude menée par L’APRONA et ses partenaires la Région Grand Est et l’Agence de l’eau Rhin-Meuse, présenté officiellement le 26/11 à Colmar. Un gros morceau à digérer…
+- [Eau/ environnement /Alsace] L’Observatoire de la nappe d’Alsace a repéré un polluant éternel dans 97,5% de ses 200 points de mesure. Ce composé est issu, notamment, d’un herbicide classé comme perturbateur endocrinien. Issu des premiers résultats du projet ERMES-ii Rhin/Rhein pour le territoire alsacien, grande étude menée par L’APRONA et ses partenaires la Région Grand Est et l’Agence de l’eau Rhin-Meuse, présenté officiellement le 26/11 à Colmar. Un gros morceau à digérer…
 https://www.aprona.net/ermes-ii-alsace.html
 https://www.aprona.net/uploads/pdf/ermesii/phytos_ermesii_2024.pdf
 https://www.aprona.net/uploads/pdf/ermesii/PFAS_ermesii_2024.pdf
@@ -44,7 +44,7 @@ https://globalenergymonitor.org/projects/global-methane-emitters-tracker/launch-
 https://geoproximites.fr/ark:/84480/2024/09/19/vpm-sommaire/
 
 - [Archéologie] Un étudiant découvre par hasard une cité maya perdue au Mexique en faisant une simple recherche Google. Située dans l’État mexicain de Campeche, "Valeriana" s’étend sur environ 16,6 kilomètres carrés. On estime que cette cité aurait accueilli entre 30 000 et 50 000 habitants à son apogée, entre les années 750 et 850. Les ruines révèlent des centres urbains, des habitations, des chaussées, des pyramides et même un vaste terrain de jeu, totalisant 6 764 structures impressionnantes.
-https://www.cambridge.org/core/journals/antiquity/article/running-out-of-empty-space-environmental-lidar-and-the-crowded-ancient-landscape-of-campeche-mexico/FFDB435047017853F26CFC5D8804B08Dpetites
+https://www.cambridge.org/core/journals/antiquity/article/running-out-of-empty-space-environmental-lidar-and-the-crowded-ancient-landscape-of-campeche-mexico/FFDB435047017853F26CFC5D8804B08D
 
 - [géographie/ ressources] « Le regard du cartographe ». Chaque mois, Nicolas Lambert, ingénieur de recherche au CNRS en sciences de l’information géographique, propose une carte interactive pour décrypter l’actualité, dévoiler les dessous de la cartographie ou mettre en lumière la tendance longue d’un phénomène. Un exemple avec le paradoxe de l’aviateur. A creuser (36 articles publiés !).
 https://www.humanite.fr/monde/regard-de-cartographe/le-paradoxe-de-laviateur
