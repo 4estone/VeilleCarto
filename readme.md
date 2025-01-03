@@ -2,6 +2,8 @@
 
 Initiée dans un cadre professionnelle depuis plusieurs année, cette veille se devait d'être capitalisée.
 Le numéro 0 corresponds au premier numéro publié en milieu "ouvert", les numéros négatifs remontent le fil des publications antérieures à cette date.
+* [Numéro -4 (2023/12/01)](Numero-4.md)
+* [Numéro -3 (2024/03/08)](Numero-3.md)
 * [Numéro -2 (2024/05/24)](Numero-2.md)
 * [Numéro -1 (2024/09/06)](Numero-1.md)
 * [Numéro 0 (2024/10/25)](Numero+0.md)
