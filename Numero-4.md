@@ -19,13 +19,10 @@ https://www.letemps.ch/videos/decryptages/debit-du-rhone-modifie-par-le-changeme
 https://www.lemonde.fr/les-decodeurs/article/2023/11/14/inondations-dans-le-pas-de-calais-ce-que-les-images-satellites-montrent-de-l-ampleur-de-la-catastrophe_6200089_4355770.html
 
 - [socio-économie] Cartographier les inégalités en France à partir des données carroyées de l'INSEE
-
 L'Insee publie régulièrement de nouvelles données carroyées à 200m ou 1km. Ces données proviennent du dispositif sur les revenus localisés sociaux et fiscaux (FiLoSoFi). La base contient 31 variables sur la structure par âge des individus, sur les caractéristiques des ménages et des logements et sur les revenus. Le champ géographique est constitué de la France métropolitaine, de la Martinique et de La Réunion. La publication des nouvelles données 2019 donne l'occasion de cartographier les inégalités en France à l'échelle infracommunale.
 Niveau de vie en France selon les données carroyées 2019
 https://www.geoportail.gouv.fr/carte?c=2.079997744667488,46.763576042274366&z=7&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-EXPRESS.STANDARD::GEOPORTAIL:OGC:WMTS(0.64;g)&l1=INSEE.FILOSOFI.NIVEAU.DE.VIE.SECRET::GEOPORTAIL:OGC:WMTS(1)&permalink=yes
-
 Ménages propriétaires en France selon les données carroyées 2019 (https://www.geoportail.gouv.fr/carte?c=3.4868709822107764,47.14808230001242&z=6&l0=INSEE.FILOSOFI.PART.MENAGES.PROPRIETAIRES.SECRET::GEOPORTAIL:OGC:WMTS(0.8)&permalink=yes 
-
 Part des ménages pauvres en France selon les données carroyées 2019 https://www.geoportail.gouv.fr/carte?c=0.7874801584722791,47.70670409077994&z=6&l0=INSEE.FILOSOFI.PART.MENAGES.PAUVRES.SECRET::GEOPORTAIL:OGC:WMTS(0.8)&permalink=yes
 
 - [socio-économie] Les mêmes données mises en valeur par des modes de représentation innovants
@@ -39,9 +36,7 @@ https://eurostat.github.io/gridviz/docs/reference#segment-style
 https://eurostat.github.io/gridviz/docs/reference#stroke-style
 https://eurostat.github.io/gridviz/docs/reference#advanced-styles
 https://eurostat.github.io/gridviz/docs/reference#dot-density-style
-
 Et j’arrête là, mais bien d’autres possibilités sont accessibles dans ces pages.
-
 Bonus : un support explicitant la démarche
 https://github.com/magisAR9/webinaires/blob/main/20231005_gridviz_GDRmagis_gaffuri.pdf
 
@@ -55,19 +50,15 @@ https://zoinet.org/product/ceobs-ukraine/
 - [déplacement] Villes-plus, un beau projet centré initialement sur le caractère piéton des villes, élargi aux territoires cyclables. Calcule la cyclabilité des principales villes françaises , grandes, moyennes, …
 https://www.villes.plus/
 
-
 - [Histoire] Archéologie de la piraterie et des économies illicites
 https://www.radiofrance.fr/franceculture/podcasts/carbone-14-le-magazine-de-l-archeologie/archeologie-de-la-piraterie-et-des-economies-illicites-2139833
 
 - Lancé en 2019 le 30DayMapChallenge permet à tout un chacun de proposer une carte par jour durant tout le mois de novembre, sur le principe de à chaque jour un thème.
 La diffusion se fait sur les réseaux sociaux via le hashtag #30DayMapChallenge, initialement lancé sur Twitter, on retrouve maintenant le challenge sur Linkedin et surement ailleurs…
 https://www.linkedin.com/feed/hashtag/?keywords=30daymapchallenge&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7131361363792162816
-
 L’association de thèmes imposés à la créativité des cartographes produit des représentations très riches et variées.
 Plus d’information sur le sujet et sur les précédents challenges
 https://30daymapchallenge.com/
-
-A venir dans la prochaine livraison : du bruit, de l’obscurité, des arbres,…
 Bonus  
 - [Art/local] Benoît Vauthier et Manu Lerendu, sculpteurs sur bois et ébénistes créateurs français installés à La Petite Raon (Vosges) produisent de merveilleux paysages en bois
 https://www.benetmanu.com/sculpture
