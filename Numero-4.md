@@ -1,11 +1,10 @@
 Difficile de faire des choix face à la masse des sources d’informations disponibles ! Emergent dans cette livraison les thèmes de la géologie, de l’hydrographie/ hydrologie, des visualisations innovantes appliquées aux statistiques socio-économique, avec en toile de fond le fil rouge de l’environnement et du climat, plus quelques bonus/idées pour les fêtes
 
--[Géologie/local] Les particularités géologiques et forestières de la région entre Wisches-Schirmeck-Granfontaine, vallée de la Bruche. Toujours aussi fouillées ces publications autour de la forêt donnent envie d’aller arpenter ce terrain proche et de le voir autrement.
+- [Géologie/local] Les particularités géologiques et forestières de la région entre Wisches-Schirmeck-Granfontaine, vallée de la Bruche. Toujours aussi fouillées ces publications autour de la forêt donnent envie d’aller arpenter ce terrain proche et de le voir autrement.
 https://histoiresdeforets.com/hautes-vosges/geologie-foret-wisches-schirmeck-granfontaine-vallee-de-la-bruche/
 
 - [Géologie] InfoGéol - Accès mobile aux données géologiques en France. Avec cette application mobile vous pourrez lors de vos ballades visualiser la géologie sous vos pas.
 https://www.brgm.fr/fr/application-mobile/infogeol-acces-mobile-aux-donnees-geologiques-france
-
 Bonus, un bouquin sous le sapin : « La Terre habitable ou l'épopée de la zone critique » de Jérôme Gaillardet . Complémentaire des 2 sujets précédents. Ce très bon bouquin de vulgarisation (au sens noble du terme) explicite les cycles fondamentaux qui façonnent cette mince pellicule à la surface du globe terrestre sur laquelle nous évoluons
 https://www.editionsladecouverte.fr/la_terre_habitable-9782348075421
 
