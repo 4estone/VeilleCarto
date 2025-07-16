@@ -3,7 +3,7 @@
 Au menu : du climat, de l’eau, de l’océan, de l’histoire, du chaud pour cette livraison estivale.
 
 - [météorologie / climat] Pour commencer petit retour sur la période de fortes chaleurs de la seconde quinzaine du mois de juin. Parmi les nombreux commentaires et comparaisons entendus, il a été fait référence au mois de juin 1976 qui avait vu s’établir une sécheresse record. Les outils actuels de ré-analyse des données météorologiques permettent de comparer les 2 périodes à l’échelle mondiale (anomalies de température par rapport à la moyenne de la période 1979-2000):
-![june 1976/2025](ressources\meteo1976-2025.jpg)
+![june 1976/2025](../ressources/meteo1976-2025.jpg)
  Si vous voulez vous « amusez » et générer vos propres visualisations , c’est ici :
 https://climatereanalyzer.org/research_tools/monthly_maps/
 
