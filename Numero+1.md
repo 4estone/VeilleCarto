@@ -1,4 +1,4 @@
-# Numéro +1 (2025/10/25)
+# Numéro +1 (2024/11/29)
 
 Au menu, de quoi s’occuper les longues soirées d’hiver :  littérature , bande dessinée, moustiques, nappe du Rhin, musique, cartographie sensible, méthane, cartographie participative, villes en transition… Certaines ressources sont à explorer sur le temps long…
 Des formats très variés également : conférence, vidéo, globe, publications scientifiques. La cartographie est partout sous toutes les formes.
