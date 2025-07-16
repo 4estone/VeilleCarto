@@ -10,7 +10,9 @@ Le numéro 0 corresponds au premier numéro publié en milieu "ouvert", les num�
 * [Numéro 0 (2024/10/25)](Numero+0.md)
 * [Numéro 1 (2024/11/29)](Numero+1.md)
 * [Numéro 2 (2025/02/28)](Numero+2.md)
-* [Numéro 3 (2025/04/12)](Numero+3.md)
+* [Numéro 3 (2025/04/11)](Numero+3.md)
+* [Numéro 4 (2025/05/28)](Numero+4.md)
+* [Numéro 5 (2025/07/11)](Numero+5.md)
 
 
 
