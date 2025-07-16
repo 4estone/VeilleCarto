@@ -1,6 +1,6 @@
 # Numéro -8 (2023/05/15)
 
-"On devrait toujours répondre à l'invitation des cartes. Croire en leurs promesses". Sylvain Tesson
+*On devrait toujours répondre à l'invitation des cartes. Croire en leurs promesses.* Sylvain Tesson
 
 Au programme, : un gros volet climat comme d’habitude (RGA (retrait-gonflement d'argile), El Niño, sécheresse,…), mais aussi l’apport de la cartographie dans la présentation de différents sites archéologiques et naturels.
 

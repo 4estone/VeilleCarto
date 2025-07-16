@@ -1,6 +1,6 @@
 # Numéro -9 (2023/04/03)
 
-Et la beauté d’une carte, c’est que, si elle ne sauve pas le monde, elle rouvre des chemins de l’action. Baptiste Morizot 
+*Et la beauté d’une carte, c’est que, si elle ne sauve pas le monde, elle rouvre des chemins de l’action.* Baptiste Morizot 
 
 Pour commencer du tout chaud (plutôt du tout froid) : modélisation des températures pour les 2 nuits prochaines (température 2:00 AM)
 
