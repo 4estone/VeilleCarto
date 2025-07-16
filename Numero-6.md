@@ -50,7 +50,7 @@ https://www.lemonde.fr/series-d-ete/article/2023/08/24/les-jet-streams-menaces-a
  
 - **[eau]** Carte de France de la dépendance en eau pour l’irrigation
 Conçue dans le cadre du projet CrATER, qui ne cesse de s'améliorer. Un outil libre développé par Les Greniers d'Abondance, la référence en matière de résilience alimentaire. 
-https://crater.resiliencealimentaire.org/carte/score-eau/epci
+https://territoiresfertiles.fr/cartes/score-eau/epci
  
 - **[eau]** La plateforme Aqueduct du World Ressource Institute synthétise une somme considérable de données sur la ressource en eau, essentiellement sa pénurie.
  
