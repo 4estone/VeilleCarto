@@ -32,7 +32,8 @@ https://kermap.com/images-satellites-suivre-changement-climatique-secheresse-ira
 
 - **[eau / sécheresse]** Un premier arrêté de catastrophe naturel relatif aux phénomènes de RGA (retrait-gonflement d'argile) en 2022 a été publié le 3 mai au Journal Officiel
 •	Près de 3 200 communes ont été touchées par le RGA
-•	Une carte interactive a été élaborée par le cabinet d’expertise Eurexo : https://lnkd.in/dSqiaF-z
+•	Une carte interactive a été élaborée par le cabinet d’expertise Eurexo : 
+https://www.google.com/maps/d/viewer?mid=1Y3GgHALkT4y8IJFPSzO3wMpfyVGsbSw&ll=47.34283901296314%2C4.761405393897267&z=6
 •	Les sinistrés ont max. 30 jours pour se tourner vers leur assureur
 
 - **[eau]** Situation hydrologique au 1er avril. 
