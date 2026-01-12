@@ -13,9 +13,7 @@ Ici parmi d’autres (localisation des écoles , collèges, lycées) un exemple 
 https://pnx-si.github.io/BAM-widget/docs/examples/osm-schools.html
 
 - **[Biodidiversité] Le GBIF (Global Biodiversity Information Facility), le système mondial d'information sur la biodiversité**, est un réseau international et une infrastructure de données financés par les gouvernements du monde entier et visant à fournir à tous, partout dans le monde, un accès libre aux données sur toutes les formes de vie sur Terre.
-Coordonné par son secrétariat à Copenhague, le réseau GBIF, composé de pays et d'organisations participants, fournit aux institutions détentrices de données du monde entier des normes communes, des bonnes pratiques et des outils open source leur permettant de partager des informations sur les lieux et les dates d'observation des espèces. Ces connaissances proviennent de sources très diverses, allant des spécimens de musée collectés aux XVIIIe et XIXe siècles aux codes-barres ADN et aux photos prises avec des smartphones ces dernières semaines.
-
-Le réseau rassemble ces sources de données hétérogènes grâce à l'utilisation de normes, notamment Darwin Core, qui constitue la base de l'essentiel de l'index de GBIF.org, contenant des centaines de millions de données sur la présence d'espèces. Les éditeurs proposent un accès libre à leurs jeux de données sous licence Creative Commons, permettant ainsi aux scientifiques, chercheurs et autres acteurs d'utiliser ces données dans près de cinq publications à comité de lecture par jour, ainsi que dans d'autres rapports, analyses et documents de politique.
+Coordonné par son secrétariat à Copenhague, le réseau GBIF, composé de pays et d'organisations participants, fournit aux institutions détentrices de données du monde entier des normes communes, des bonnes pratiques et des outils open source leur permettant de partager des informations sur les lieux et les dates d'observation des espèces. Ces connaissances proviennent de sources très diverses, allant des spécimens de musée collectés aux XVIIIe et XIXe siècles aux codes-barres ADN et aux photos prises avec des smartphones ces dernières semaines. Le réseau rassemble ces sources de données hétérogènes grâce à l'utilisation de normes, notamment Darwin Core, qui constitue la base de l'essentiel de l'index de GBIF.org, contenant des centaines de millions de données sur la présence d'espèces. Les éditeurs proposent un accès libre à leurs jeux de données sous licence Creative Commons, permettant ainsi aux scientifiques, chercheurs et autres acteurs d'utiliser ces données dans près de cinq publications à comité de lecture par jour, ainsi que dans d'autres rapports, analyses et documents de politique.
 https://www.gbif.org/fr/species/2554662
 
 
@@ -28,8 +26,8 @@ https://conspiracyofcartographers.com/petrofuture-france-gallery/
 
 - **[Transport] Ce site a analysé 17,3 millions d'arrivées de trains à travers l'Europe en 2025. Le résultat ? 136 ans de retards cumulés.**
 La visualisation est interactive.
-- Vous pouvez choisir le jour en déplaçant le curseur sur le bord extérieur de l'horloge.
-- L'emplacement peut être modifié via les interactions standard sur la carte de fond.
+Vous pouvez choisir le jour en déplaçant le curseur sur le bord extérieur de l'horloge.
+L'emplacement peut être modifié via les interactions standard sur la carte de fond.
 https://chuuchuu.com/2025wrapped
 
 - **[Sécurité] En utilisant des données publicitaires d’accès facile, « Le Monde » a pu déterminer avec certitude ou un haut niveau de probabilité l’identité, le domicile et les habitudes de plusieurs dizaines de salariés ou fonctionnaires d’entités sensibles**
