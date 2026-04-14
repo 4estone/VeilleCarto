@@ -47,7 +47,7 @@ https://vv.guide/tokyo-et-ses-villages-connectes-21322/
 Recensement des localisations de ce phénomène étrange à partir d'articles scientifiques, de rapports de terrain et d'analyses d'images satellites. Ces observations ont été constatées dans l'ouest du Canada, l'est de la Sibérie, au Svalbard en Norvège, ainsi que dans les Alpes et les Pyrénées européennes.  
 https://as.ft.com/r/bffabeca-276a-4d39-813b-e18e155c43c1
 
--**[Environnement] Le nombre d'incendies de forêt en Arctique est en augmentation, selon des chercheurs de la NASA.**  
+- **[Environnement] Le nombre d'incendies de forêt en Arctique est en augmentation, selon des chercheurs de la NASA.**  
 De plus, ces feux sont plus étendus, plus intenses et durent plus longtemps qu'au cours des décennies précédentes. Ces cartes illustrent le nombre d'incendies détectés par les capteurs MODIS des satellites Aqua et Terra de la NASA. La carte de gauche présente les détections d'incendies de 2002 à 2012 (en jaune), tandis que celle de droite présente les détections de 2012 à 2024 (en orange). Les plus grands cercles indiquent les zones où 15 000 incendies ou plus ont été détectés, et les plus petits, celles où 1 000 incendies ou moins ont été détectés. Les données de détection des incendies proviennent du système FIRMS (Fire Information for Resource Management System) de la NASA.  
 https://science.nasa.gov/earth/earth-observatory/fires-on-the-rise-in-the-far-north/
 
