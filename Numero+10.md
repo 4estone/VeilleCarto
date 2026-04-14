@@ -44,7 +44,6 @@ https://vv.guide/tokyo-et-ses-villages-connectes-21322/
 
 - **[Environnement] Les rivières d'Alaska et de l'Arctique prennent une teinte orange vif. La fonte du pergélisol et des glaciers, conséquences du changement climatique, entraîne la lixiviation de fer et d'autres métaux dans les cours d'eau.**
 Recensement des localisations de ce phénomène étrange à partir d'articles scientifiques, de rapports de terrain et d'analyses d'images satellites. Ces observations ont été constatées dans l'ouest du Canada, l'est de la Sibérie, au Svalbard en Norvège, ainsi que dans les Alpes et les Pyrénées européennes.
-
 https://as.ft.com/r/bffabeca-276a-4d39-813b-e18e155c43c1
 
 -**[Environnement] Le nombre d'incendies de forêt en Arctique est en augmentation, selon des chercheurs de la NASA.**
@@ -53,13 +52,12 @@ https://science.nasa.gov/earth/earth-observatory/fires-on-the-rise-in-the-far-no
 
 - **[Démographie] Espérance de vie : une Europe à deux vitesses se dessine, avec des écarts de plusieurs années selon les régions**
 https://histdemo.shinyapps.io/ReLoG_Europe/
-
 https://www.lemonde.fr/planete/article/2026/02/02/esperance-de-vie-une-europe-a-deux-vitesses-se-dessine-avec-des-ecarts-de-plusieurs-annees-selon-les-regions_6665035_3244.html
 
 - **[Occupation du sol] Le Cerema a cartographié la consommation d'espaces naturels agricoles et forestiers (NAF) entre 2011 et 2024 et a publié une analyse**
 Ce qu'on peut lire : 
 - La France consommait de moins en moins d'espaces NAF. Mais on stagne à environ 20 000 ha/an (beaucoup de terrains de foot FIFA : ± 14000) depuis 2019 alors que ça devrait baisser encore plus (incluant certains DROM-COM) 
-- C'est beaucoup pour construire de l'habitation (64 % de la conso.) dans plus de la moitié des cas (58%) dans des communes avec une faible tension sur le logement - Beaucoup sur les littoraux 
+- C'est beaucoup pour construire de l'habitation (64 % de la conso.) dans plus de la moitié des cas (58%) dans des communes avec une faible tension sur le logement - Beaucoup sur les littoraux.
 Donc : 
 - On continue à artificialiser massivement par l'étalement urbain, l'application (en changement) du Zéro Artificialisation Nette (ZAN) n'est pas réalisée à l'échelle nécessaire 
 - C'est autant de sols, d'habitats pour les autres vivants, utiles aux humains, de détruits dans un contexte d’anéantissement de la biodiversité 
@@ -67,18 +65,16 @@ Donc :
 - On le fait en bonne partie à des endroits concernés par la montée des eaux dans le contexte du dérèglement climatique d'origine anthropique. 
 La carto sur le portail : 
 https://cerema-med.shinyapps.io/conso_espace_24/
-
 L’étude
 https://artificialisation.developpement-durable.gouv.fr/sites/artificialisation/files/fichiers/2025/12/Determinants_consoENAF_M2024_final.pdf
 
 - **[Réseaux sociaux] Réseaux sociaux décentralisés. Voici à quoi Mastodon ressemble réellement, et à quoi le Fediverse dans son ensemble ressemble réellement.**
-Une bonne porte d’entrée pour s’intéresser à cette belle alternative aux réseaux centralisés.
+Une bonne porte d’entrée pour s’intéresser à cette belle alternative aux réseaux centralisés.  
 https://arewedecentralizedyet.online/map/?source=fedi
 
 
 - **[Climat] Bilan climat année 2025, les contribution du service européen Copernicus et de Météofrance**
-https://climate.copernicus.eu/global-climate-highlights-2025
-
+https://climate.copernicus.eu/global-climate-highlights-2025  
 https://meteofrance.com/actualites-et-dossiers/actualites/lannee-2025-au-4e-rang-des-annees-les-plus-chaudes
 
 - **[Climat] L'Indice Climat-Conflit-Vulnérabilité (CCVI) cartographie les risques mondiaux actuels en intégrant les dangers climatiques et les conflits avec les vulnérabilités locales.**
