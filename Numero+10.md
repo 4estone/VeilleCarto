@@ -1,4 +1,4 @@
-- **Numéro +10 (2026/03/12)
+**Numéro +10 (2026/03/12)**
 
 - **[Elections] Données officiels du ministère de l'Intérieur, 34 904 communes, 49 961 listes en Opendata pour les municipales 2026.**
 Analyse des forces en présence : carte des 35K communes colorée par métrique, des filtres combinables, une matrice de co-occurrence des familles politiques, les bastions par département, les communes les plus disputées... Bref, de quoi passer un peu de temps à regarder des données au lieu de faire quelque chose d'utile.
@@ -24,21 +24,18 @@ Chaque planche de l'Atlas est conçue comme un module complet de connaissance :
 3.    Des zooms territoriaux pour observer la réalité à l'échelle locale, avec un focus spécifique sur les territoires des plateformes POPSU (Plateforme d'observation des projets et stratégies urbaines)
 4.    Accès aux données de science ouverte : SIG, dépôts GitHub
 5.    Un volet "Pour aller plus loin" incluant un encart méthodologique et une bibliographie pour les experts.
-
 https://atlas-social-de-france.fr/
 
 - **[Climat/agriculture] Chambres d’agriculture et régions françaises ne restent pas les bras croisés. Elles travaillent, elles aussi, sur l’impact du changement climatique et sur ce que cela implique pour notre souveraineté alimentaire.**
 En Auvergne-Rhône-Alpes, il y a l’excellent projet AP3C. projet d’envergure. Il met à disposition 513 cartes agroclimatiques, accessibles ici :
 https://www.sidam-massifcentral.fr/ap3c-les-cartes-climatiques-et-agro-climatiques/
+**Dans le Val de Loire, l'interprofession viticole InterLoire / Vins de Loire a mis en ligne un atlas agroclimatique**, sur lequel sont projetées certaines variables météo à l'horizon 2050 et 2100, ainsi que les futurs stades phénologiques de plusieurs cépages : https://atlasagroclimatique.techniloire.com/
 
-Dans le Val de Loire, l'interprofession viticole InterLoire / Vins de Loire a mis en ligne un atlas agroclimatique, sur lequel sont projetées certaines variables météo à l'horizon 2050 et 2100, ainsi que les futurs stades phénologiques de plusieurs cépages : https://atlasagroclimatique.techniloire.com/
-
--**[Conflit] Combien vaut un kilomètre carré en vies humaines ? Pour la Russie : environ 3 à 4 soldats par km². 26 000 victimes par mois. Une nouvelle analyse du CSIS détaille le véritable coût des « avancées » de Poutine. Des vies russes pour des terres ukrainiennes.**
+- **[Conflit] Combien vaut un kilomètre carré en vies humaines ? Pour la Russie : environ 3 à 4 soldats par km². 26 000 victimes par mois. Une nouvelle analyse du CSIS détaille le véritable coût des « avancées » de Poutine. Des vies russes pour des terres ukrainiennes.**
 https://www.reuters.com/graphics/UKRAINE-CRISIS/CASUALTIES/lgvdgmjbzpo/
 
 - **[Géopolitique] L’appétit de Donald Trump pour le Groenland résulterait, aussi, d’une approximation géographique**
 https://www.huffingtonpost.fr/international/article/l-appetit-de-donald-trump-pour-le-groenland-resulterait-aussi-d-une-approximation-geographique_259406.html
-
 Pour dépasser ce biais de taille des pays selon le système de projection cartographique, The true size :
 https://thetruesize.com/
 
